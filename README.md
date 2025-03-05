@@ -45,10 +45,8 @@ The Power BI dashboard visualizes key metrics and trends, including:
 2. Open the Power BI dashboard file.
 3. Interact with the visualizations to explore Virat Kohli's cricketing performance.
 
-## Future Enhancements 🌟
-- Add time-based trend analysis with moving averages.
-- Visualize performance across different grounds and countries.
-- Include bowling and fielding statistics (if available).
+## Preview
+![image](https://github.com/user-attachments/assets/fb8c7374-bb56-41b4-a645-7d825dfe37d2)
 
 ---
 
