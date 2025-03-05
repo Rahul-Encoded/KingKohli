@@ -45,10 +45,10 @@ The Power BI dashboard visualizes key metrics and trends, including:
 2. Open the Power BI dashboard file.
 3. Interact with the visualizations to explore Virat Kohli's cricketing performance.
 
-## Preview
+## Preview 🪟
 ![image](https://github.com/user-attachments/assets/fb8c7374-bb56-41b4-a645-7d825dfe37d2)
 
-## 📝 Note
+## Note 📝
 The dataset used was last updated on **24/02/2025**.
 
 ---
