@@ -48,6 +48,9 @@ The Power BI dashboard visualizes key metrics and trends, including:
 ## Preview
 ![image](https://github.com/user-attachments/assets/fb8c7374-bb56-41b4-a645-7d825dfe37d2)
 
+## 📝 Note
+The dataset used was last updated on **24/02/2025**.
+
 ---
 
 Feel free to contribute or raise issues for improvements. Let’s keep making this dashboard better! 🌟
